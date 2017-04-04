@@ -1,8 +1,4 @@
-# Request Tracking and Management System for Deputies and Municipalities
-
-
-
-## -What is our Project?-
+# -What is our Project?-
 
 Today, there are tens of thousands of demands, requests and complaints per month for many deputies and municipalities. This project will be prepared in accordance with all devices and will enable the people concerned to reach the system whenever they want. In the web-based **"Request Tracking and Management System for Deputies and Municipalities"** features such as authorization, SMS informing, program editing, warning and note system, and easier access to information through various filters are available.
 
@@ -18,7 +14,7 @@ This software will cover the following features;
   * Flexible software architecture by using Object Oriented Design principles
 
 
-### -Scope of Project-
+## -Scope of Project-
 
 This system will facilitate the long-term analysis and follow-up of the municipalities. Moreover, in this system, the programing and requests of the citizens in the lives of the citizens are aimed to remove the problems they have experienced in order to organize their wishes. One person who is in the demand before, he/she can see the records from the reopening and allow the process to be done accordingly.
 
