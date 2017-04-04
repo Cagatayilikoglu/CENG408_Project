@@ -6,11 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## -What is our Project?-
 
-Today, there are tens of thousands of demands, requests and complaints per month for many deputies and municipalities. This project will be prepared in accordance with all devices and will enable the people concerned to reach the system whenever they want. In the web-based "Request Tracking and Management System for Deputies and Municipalities" features such as authorization, SMS informing, program editing, warning and note system, and easier access to information through various filters are available.
+Today, there are tens of thousands of demands, requests and complaints per month for many deputies and municipalities. This project will be prepared in accordance with all devices and will enable the people concerned to reach the system whenever they want. In the web-based **"Request Tracking and Management System for Deputies and Municipalities"** features such as authorization, SMS informing, program editing, warning and note system, and easier access to information through various filters are available.
 
 With its user-friendly design, speed and safety are the hallmarks of this project; many modules are still available at the moment by many organizations with different programs. There are people's grievances because of the complexity of control systems. Along with this project, we are planning to go through this mess. This system is generally presented as a solution to all problems..
-
-```markdown
 
 This software will cover the following features;
   *	Accessible with all computer devices including mobile phones
@@ -21,13 +19,19 @@ This software will cover the following features;
   * Information security with encryption and user authentication
   * Flexible software architecture by using Object Oriented Design principles
 
-```
 
 ### -Scope of Project-
 
 This system will facilitate the long-term analysis and follow-up of the municipalities. Moreover, in this system, the programing and requests of the citizens in the lives of the citizens are aimed to remove the problems they have experienced in order to organize their wishes. One person who is in the demand before, he/she can see the records from the reopening and allow the process to be done accordingly.
 
-Users will be able to incorporate as many users as they wish in this system, which has the features of records viewing and instant reporting that users want when they want. 
+Users will be able to incorporate as many users as they wish in this system, which has the features of records viewing and instant reporting that users want when they want.
+
+
+## Login Page
+
+The login page uses cookies. On this account, the user can connect to the system without having to log in again after a certain period of time. On the user page, the user is warned if the password or user name is mistyped.
+
+[Image]()
 
 
 ### Markdown
