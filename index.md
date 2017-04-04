@@ -10,6 +10,7 @@ Today, there are tens of thousands of demands, requests and complaints per month
 
 With its user-friendly design, speed and safety are the hallmarks of this project; many modules are still available at the moment by many organizations with different programs. There are people's grievances because of the complexity of control systems. Along with this project, we are planning to go through this mess. This system is generally presented as a solution to all problems..
 
+```markdown
 This software will cover the following features;
   *	Accessible with all computer devices including mobile phones
   * Allows any time access to the system with Web-based system architecture
@@ -18,7 +19,8 @@ This software will cover the following features;
   * User-friendly design with easy access to information through various filters
   * Information security with encryption and user authentication
   * Flexible software architecture by using Object Oriented Design principles
-  
+```
+
 ### -Scope of Project-
 
 This system will facilitate the long-term analysis and follow-up of the municipalities. Moreover, in this system, the programing and requests of the citizens in the lives of the citizens are aimed to remove the problems they have experienced in order to organize their wishes. One person who is in the demand before, he/she can see the records from the reopening and allow the process to be done accordingly.
