@@ -20,6 +20,7 @@ This system will facilitate the long-term analysis and follow-up of the municipa
 
 Users will be able to incorporate as many users as they wish in this system, which has the features of records viewing and instant reporting that users want when they want.
 
+
 ## Pages of System
 
 ### Login Page
