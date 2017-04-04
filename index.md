@@ -10,6 +10,15 @@ Today, there are tens of thousands of demands, requests and complaints per month
 
 With its user-friendly design, speed and safety are the hallmarks of this project; many modules are still available at the moment by many organizations with different programs. There are people's grievances because of the complexity of control systems. Along with this project, we are planning to go through this mess. This system is generally presented as a solution to all problems..
 
+This software will cover the following features;
+  *	Accessible with all computer devices including mobile phones
+  * Allows any time access to the system with Web-based system architecture
+  * Has SMS informing capabilities
+  * Has warning and feedback system
+  * User-friendly design with easy access to information through various filters
+  * Information security with encryption and user authentication
+  * Flexible software architecture by using Object Oriented Design principles
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
