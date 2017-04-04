@@ -1,8 +1,4 @@
-# Website of Request Tracking and Management System for Deputies and Municipalities
-
-You can use the [editor on GitHub](https://github.com/Cagatayilikoglu/ProjectPage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Request Tracking and Management System for Deputies and Municipalities
 
 ## -What is our Project?-
 
