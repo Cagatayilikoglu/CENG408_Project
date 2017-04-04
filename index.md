@@ -18,6 +18,13 @@ This software will cover the following features;
   * User-friendly design with easy access to information through various filters
   * Information security with encryption and user authentication
   * Flexible software architecture by using Object Oriented Design principles
+  
+### -Scope of Project-
+
+This system will facilitate the long-term analysis and follow-up of the municipalities. Moreover, in this system, the programing and requests of the citizens in the lives of the citizens are aimed to remove the problems they have experienced in order to organize their wishes. One person who is in the demand before, he/she can see the records from the reopening and allow the process to be done accordingly.
+
+Users will be able to incorporate as many users as they wish in this system, which has the features of records viewing and instant reporting that users want when they want. 
+
 
 ### Markdown
 
