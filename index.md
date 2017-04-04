@@ -32,66 +32,34 @@ The login page uses cookies. On this account, the user can connect to the system
 
 When the user logs in to the first system, statistics on recent operations and general operations are displayed. On this account, the user can easily view all developments with an overview.
 
-[Image](https://github.com/Cagatayilikoglu/CENG408_Project/blob/master/Main.jpg)
+[Image](https://raw.githubusercontent.com/Cagatayilikoglu/CENG408_Project/master/Main.jpg)
 
 ### Notes Page
 
 There can be more than one user in the system and it is the part provided for communicating between the users and also for adding information notes to the requests.
 
-[Image](https://github.com/Cagatayilikoglu/CENG408_Project/blob/master/Notes.jpg)
+[Image](https://raw.githubusercontent.com/Cagatayilikoglu/CENG408_Project/master/Notes.jpg)
 
 ### Tasks Page
 
 When a new task for the user is added, the user can view it within the authority. Tasks are listed by priority order.
 
-[Image](https://github.com/Cagatayilikoglu/CENG408_Project/blob/master/Tasks.jpg)
+[Image](https://raw.githubusercontent.com/Cagatayilikoglu/CENG408_Project/master/Tasks.jpg)
 
 ### Schedule Page
 
 Each user can have its own program, as well as list the tasks at the senior level in the system as the system administrator. Operations on this vault can be broken down by specific days.
 
-[Image](https://github.com/Cagatayilikoglu/CENG408_Project/blob/master/Schedule.jpg)
+[Image](https://raw.githubusercontent.com/Cagatayilikoglu/CENG408_Project/master/Schedule.jpg)
 
 ### New Demand&Record Page
 
 The most important parts of the system are requests, complaints, and suggestions. In this section, users make requests, requests or suggestions to the system.
 
-[Image](https://github.com/Cagatayilikoglu/CENG408_Project/blob/master/New%20Demand%20Record.jpg)
+[Image](https://raw.githubusercontent.com/Cagatayilikoglu/CENG408_Project/master/New%20Demand%20Record.jpg)
 
 ### Users Page
 
 More than one user can be found in the system. Since the users have certain authorities among themselves, admin can set the privileges of these users on this screen. User authority is very important in terms of system operation.
 
-[Image](https://github.com/Cagatayilikoglu/CENG408_Project/blob/master/Users.jpg)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cagatayilikoglu/ProjectPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Image](https://raw.githubusercontent.com/Cagatayilikoglu/CENG408_Project/master/Users.jpg)
