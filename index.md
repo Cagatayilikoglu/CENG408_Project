@@ -1,4 +1,4 @@
-## Welcome to Website of Request Tracking and Management System for Deputies and Municipalities
+## Website of Request Tracking and Management System for Deputies and Municipalities
 
 You can use the [editor on GitHub](https://github.com/Cagatayilikoglu/ProjectPage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
