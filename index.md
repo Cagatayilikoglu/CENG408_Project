@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Today, there are tens of thousands of demands, requests and complaints per month for many deputies and municipalities. This project will be prepared in accordance with all devices and will enable the people concerned to reach the system whenever they want. In the web-based "Request Tracking and Management System for Deputies and Municipalities" features such as authorization, SMS informing, program editing, warning and note system, and easier access to information through various filters are available.
 
-With its user-friendly design, speed and safety are the hallmarks of this project; many modules are still available at the moment by many organizations with different programs. There are people's grievances because of the complexity of control systems. Along with this project, we are planning to go through this mess. This system is generally presented as a solution to all problems.
+With its user-friendly design, speed and safety are the hallmarks of this project; many modules are still available at the moment by many organizations with different programs. There are people's grievances because of the complexity of control systems. Along with this project, we are planning to go through this mess. This system is generally presented as a solution to all problems..
 
 ### Markdown
 
