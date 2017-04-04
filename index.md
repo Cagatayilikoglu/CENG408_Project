@@ -25,33 +25,44 @@ Users will be able to incorporate as many users as they wish in this system, whi
 
 The login page uses cookies. On this account, the user can connect to the system without having to log in again after a certain period of time. On the user page, the user is warned if the password or user name is mistyped.
 
-[Image]()
+[Image](https://github.com/Cagatayilikoglu/CENG408_Project/blob/master/Login.jpg)
 
 
 ### Main&Statistics Page
 
 When the user logs in to the first system, statistics on recent operations and general operations are displayed. On this account, the user can easily view all developments with an overview.
 
+[Image](https://github.com/Cagatayilikoglu/CENG408_Project/blob/master/Main.jpg)
+
 ### Notes Page
 
 There can be more than one user in the system and it is the part provided for communicating between the users and also for adding information notes to the requests.
+
+[Image](https://github.com/Cagatayilikoglu/CENG408_Project/blob/master/Notes.jpg)
 
 ### Tasks Page
 
 When a new task for the user is added, the user can view it within the authority. Tasks are listed by priority order.
 
+[Image](https://github.com/Cagatayilikoglu/CENG408_Project/blob/master/Tasks.jpg)
 
 ### Schedule Page
 
 Each user can have its own program, as well as list the tasks at the senior level in the system as the system administrator. Operations on this vault can be broken down by specific days.
 
+[Image](https://github.com/Cagatayilikoglu/CENG408_Project/blob/master/Schedule.jpg)
+
 ### New Demand&Record Page
 
 The most important parts of the system are requests, complaints, and suggestions. In this section, users make requests, requests or suggestions to the system.
 
+[Image](https://github.com/Cagatayilikoglu/CENG408_Project/blob/master/New%20Demand%20Record.jpg)
+
 ### Users Page
 
 More than one user can be found in the system. Since the users have certain authorities among themselves, admin can set the privileges of these users on this screen. User authority is very important in terms of system operation.
+
+[Image](https://github.com/Cagatayilikoglu/CENG408_Project/blob/master/Users.jpg)
 
 ### Markdown
 
