@@ -25,7 +25,7 @@ Users will be able to incorporate as many users as they wish in this system, whi
 
 The login page uses cookies. On this account, the user can connect to the system without having to log in again after a certain period of time. On the user page, the user is warned if the password or user name is mistyped.
 
-[Image](https://github.com/Cagatayilikoglu/CENG408_Project/blob/master/Login.jpg)
+[Image](https://raw.githubusercontent.com/Cagatayilikoglu/CENG408_Project/master/Login.jpg)
 
 
 ### Main&Statistics Page
